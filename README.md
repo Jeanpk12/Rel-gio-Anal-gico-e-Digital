@@ -1,6 +1,9 @@
 <h1>Relógio Analógico e Digital</h1>
 <p>Este projeto foi desenvolvido como parte do Desafio 7 projetos em 7 dias da B7Web. Consiste em um relógio que exibe tanto a hora no formato analógico quanto no formato digital.</p>
 
+![image](https://github.com/Jeanpk12/Relogio-analigico-e-digital/assets/122842874/f03d842b-66a1-4773-a20b-fa1844185607)
+
+<a href="https://jeanpk12.github.io/Relogio-analigico-e-digital/" target="_blank">GitHub Pages</a>
 
 <h2>Estrutura do Projeto</h2>
 <p>O projeto é composto por três arquivos principais:</p>
